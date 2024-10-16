@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>start_button.png</file>
+        <file>layer1.png</file>
+        <file>layer2.png</file>
+        <file>layer3.png</file>
+        <file>transparent_background.png</file>
+        <file>eraser.png</file>
+        <file>paintBucket.png</file>
+        <file>pencil.png</file>
+        <file>sampler.png</file>
+        <file>invisible.png</file>
+        <file>visible.png</file>
+    </qresource>
+</RCC>
